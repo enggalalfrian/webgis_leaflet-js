@@ -1,3 +1,8 @@
+<!-- 
+    Programmer    : Enggal Alfrian
+    Tanggal       : 12-05-2021
+    Tentang       : Membuat marker, circle dan polygon didalam map
+-->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
